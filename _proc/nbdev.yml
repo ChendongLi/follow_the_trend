@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "follow_the_trend"
+  site-url: "https://ChendongLi.github.io/follow_the_trend"
+  description: "Follow the trend"
+  repo-branch: master
+  repo-url: "https://github.com/ChendongLi/follow_the_trend"
